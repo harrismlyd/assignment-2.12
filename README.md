@@ -16,5 +16,4 @@ For example, reading from the S3 bucket, writing to S3 or other services or acce
 2. A resource based policy defines who or what can invoke the Lambda function.
 
 3. For the execution policy, we need to grant the Lambda function to perform the s3:PutObject to upload the file. We should also specify the bucket resource arn where the Lambda function is allowed to upload the file to. 
-
 For the resource based policy, we need to allow S3 permissions to invoke the Lambda function.
