@@ -1,4 +1,4 @@
-# Assignemnt 2.12
+# Assignment 2.12
 
 Given a Lambda function that is triggered upon the creation of files in an S3 bucket, answer the following:
 
@@ -12,7 +12,7 @@ Create a public github repository that has a README.md file, containing the abov
 
 Submission is the url to your public github repository.
 
-Answer : 
+# Answer : 
 
 1. The execution role defines the permission that the function has when it runs.
 For example, reading from the S3 bucket, writing to S3 or other services or accessing other AWS resources.
