@@ -8,10 +8,6 @@ Given a Lambda function that is triggered upon the creation of files in an S3 bu
    - What is the needed update on the execution role?
    - What is the new resource-based policy that needs to be added (if any)?
 
-Create a public github repository that has a README.md file, containing the above answers.
-
-Submission is the url to your public github repository.
-
 # Answer : 
 
 1. The execution role defines the permission that the function has when it runs.
